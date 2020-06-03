@@ -12,7 +12,7 @@ All about reverse engineering
 
 ### GitHub
 
-1. https://github.com/0xricksanchez/reverse_engineering/tree/master/4_color_bomb
+1. https://github.com/0xricksanchez/reverse_engineering
 
 
 
