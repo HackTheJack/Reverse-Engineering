@@ -10,6 +10,8 @@ All about reverse engineering
 
 4. [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
 
+5. [Ghidra Cheat Sheet](https://ghidra-sre.org/CheatSheet.html)
+
 ### GitHub
 
 1. https://github.com/0xricksanchez/reverse_engineering
